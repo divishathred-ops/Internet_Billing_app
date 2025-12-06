@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_agents"
+            android:icon="@drawable/ic_group"
+            android:title="Agents"
+            android:checkable="true"/>
+        <item
+            android:id="@+id/nav_profile_settings"
+            android:icon="@drawable/ic_person"
+            android:title="Profile Settings"
+            android:checkable="true"
+            android:checked="true"/>
+    </group>
+
+    <item android:title="">
+        <menu>
+            <item
+                android:id="@+id/nav_logout"
+                android:icon="@drawable/ic_logout"
+                android:title="Logout"
+                android:iconTint="@color/candy_apple_red"
+                android:titleTextColor="@color/candy_apple_red"/>
+        </menu>
+    </item>
+
+</menu>
