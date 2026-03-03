@@ -374,13 +374,8 @@ git push origin feature/payment-gateway
 **Email**: divishathred@gmail.com  
 **GitHub**: [@divishathred-ops](https://github.com/divishathred-ops)  
 **Portfolio**: [divishathred-ops.github.io](https://divishathred-ops.github.io/Divishath_website/)  
-**LinkedIn**: [Connect with me](https://linkedin.com/in/divishathreddy)
 
----
 
-## 📄 License
-
-This project is licensed under the MIT License - see [LICENSE](LICENSE) file for details.
 
 ---
 
